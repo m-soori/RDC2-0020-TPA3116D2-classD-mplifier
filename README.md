@@ -1,3 +1,5 @@
+<p><a href="https://static.chipdip.ru/lib/954/DOC002954994.jpg" class="galery"><img src="https://static.chipdip.ru/lib/954/DOC002954994.jpg" alt="Схема"></a></p>
+
 <p>Усилитель НЧ собран на микросхеме TPA3116D2.</p>
 <p><a href="https://static.chipdip.ru/kits/9000398391/sh.png" class="galery"><img src="https://static.chipdip.ru/kits/9000398391/sh.png" alt="Схема"></a></p>
 <h2>Технические характеристики.</h2>
